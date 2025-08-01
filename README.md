@@ -1,3 +1,7 @@
+
+
+O **Economiza** é uma aplicação web desenvolvida com o objetivo de auxiliar usuários a organizarem suas finanças pessoais de forma prática, visual e consciente.
+
 Title: 💰 Economiza+ 
 draft: false
 important: 1
@@ -8,8 +12,6 @@ author: Braian Victor Fagundes de Souza e Evelyn Yukari Ozaki Kuroda
 categories: Aplicação de finanças
 tags: ["ADS", "ES", "Educação", "Tecnologia"] 
 linkweb: https://braianvfs1.github.io/Economiza/index.html
-
-O **Economiza** é uma aplicação web desenvolvida com o objetivo de auxiliar usuários a organizarem suas finanças pessoais de forma prática, visual e consciente.
 
 ## 📄 Páginas do Projeto
 
