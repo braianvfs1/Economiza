@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/braianvfs1/Economiza.git/static/css/main.64f8e45f.css",
+    "main.js": "/braianvfs1/Economiza.git/static/js/main.b8c8ba5d.js",
+    "static/js/453.d27b2399.chunk.js": "/braianvfs1/Economiza.git/static/js/453.d27b2399.chunk.js",
+    "static/media/logo.png": "/braianvfs1/Economiza.git/static/media/logo.1d5602bbe6a71a871c22.png",
+    "index.html": "/braianvfs1/Economiza.git/index.html",
+    "main.64f8e45f.css.map": "/braianvfs1/Economiza.git/static/css/main.64f8e45f.css.map",
+    "main.b8c8ba5d.js.map": "/braianvfs1/Economiza.git/static/js/main.b8c8ba5d.js.map",
+    "453.d27b2399.chunk.js.map": "/braianvfs1/Economiza.git/static/js/453.d27b2399.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64f8e45f.css",
+    "static/js/main.b8c8ba5d.js"
+  ]
+}
