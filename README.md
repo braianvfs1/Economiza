@@ -1,4 +1,13 @@
-# 💰 Economiza - Sistema de Controle Financeiro Pessoal
+Title: 💰 Economiza+ 
+draft: false
+important: 1
+language: pt-br
+featured_image: https://braianvfs1.github.io/Economiza/static/media/logo.1d5602bbe6a71a871c22.png
+summary: Sistema de Controle Financeiro Pessoal, voltada para pessoas que não têm o hábito de organizar suas finanças. Registrar e acompanhar suas despesas com base na data de vencimento e no valor das dívidas. Além disso, incluí uma seção de conscientização sobre o uso compulsivo do cartão de crédito, oferecendo orientações práticas para um melhor controle dos gastos mensais.   
+author: Braian Victor Fagundes de Souza e Evelyn Yukari Ozaki Kuroda
+categories: Aplicação de finanças
+tags: ["ADS", "ES", "Educação", "Tecnologia"] 
+linkweb: https://braianvfs1.github.io/Economiza/index.html
 
 O **Economiza** é uma aplicação web desenvolvida com o objetivo de auxiliar usuários a organizarem suas finanças pessoais de forma prática, visual e consciente.
 
@@ -42,7 +51,12 @@ O calendário permite **visualizar e planejar pagamentos**, oferecendo uma visã
 
 4. Acesse em: http://localhost:3000
 
-Caso queira entrar em contato ou contribuir com o projeto, fique à vontade para me encontrar no LinkedIn ou Instagram 
+Caso queira entrar em contato ou contribuir com o projeto, fique à vontade para me encontrar nas redes abaixo: 
 
 Linkedin - Braian Fagundes 
 Instagram - braianvfs
+
+E-mail: 
+
+evelynkuroda2002@edu.unifil.br
+braian.fagundes@edu.unifil.br
