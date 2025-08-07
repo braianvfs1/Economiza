@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Economiza/static/css/main.64f8e45f.css",
-    "main.js": "/Economiza/static/js/main.de0cd72e.js",
-    "static/js/453.d27b2399.chunk.js": "/Economiza/static/js/453.d27b2399.chunk.js",
-    "static/media/logo.png": "/Economiza/static/media/logo.1d5602bbe6a71a871c22.png",
-    "index.html": "/Economiza/index.html",
-    "main.64f8e45f.css.map": "/Economiza/static/css/main.64f8e45f.css.map",
-    "main.de0cd72e.js.map": "/Economiza/static/js/main.de0cd72e.js.map",
-    "453.d27b2399.chunk.js.map": "/Economiza/static/js/453.d27b2399.chunk.js.map"
+    "main.css": "/EconomizaPlus/static/css/main.64f8e45f.css",
+    "main.js": "/EconomizaPlus/static/js/main.932942a6.js",
+    "static/js/453.d27b2399.chunk.js": "/EconomizaPlus/static/js/453.d27b2399.chunk.js",
+    "static/media/logo.png": "/EconomizaPlus/static/media/logo.1d5602bbe6a71a871c22.png",
+    "index.html": "/EconomizaPlus/index.html",
+    "main.64f8e45f.css.map": "/EconomizaPlus/static/css/main.64f8e45f.css.map",
+    "main.932942a6.js.map": "/EconomizaPlus/static/js/main.932942a6.js.map",
+    "453.d27b2399.chunk.js.map": "/EconomizaPlus/static/js/453.d27b2399.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64f8e45f.css",
-    "static/js/main.de0cd72e.js"
+    "static/js/main.932942a6.js"
   ]
 }
